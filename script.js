@@ -1,9 +1,9 @@
 function sigma() {
     let p1 = prompt('Qual é o seu nome?')
-    let nome = ["Isaque", "Edér", "Wemerson"];
+    let nome = ("Isaque");
    
     if(nome.includes(p1)) {
-        alert("${nome }é Macho Alfa");
+        alert(`${nome}é Macho`);
     }
     
     else {
