@@ -3,7 +3,7 @@ function sigma() {
     let nome = ("Isaque");
    
     if(nome.includes(p1)) {
-        alert(`${nome}é Macho`);
+        alert(`${nome} é Macho`);
     }
     
     else {
